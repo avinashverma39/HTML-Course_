@@ -1,0 +1,15 @@
+h1{
+     
+    color: rgb(219, 91, 0);
+    background-color: white;
+    font-family: initial;
+    text-align: center;
+    font-size: 70px;
+    font-weight: 900;
+    letter-spacing: 2px;
+    line-height: 1.5;
+    text-decoration: teal double underline;
+    /* text-decoration: teal underline; */
+    text-transform: uppercase;
+
+}
