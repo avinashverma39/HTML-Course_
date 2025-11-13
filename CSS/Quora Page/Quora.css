@@ -21,6 +21,7 @@ ul {
 #myid {
     color: aquamarine;
 }
+
 /*INDVISUAL ELEMENT SELECTOR  */
 #login {
     color: rgb(243, 5, 207);
@@ -31,6 +32,7 @@ ul {
     color: rgb(220, 39, 190);
     background-color: black;
 }
+
 /*.CLASS SELECTOR  */
 .upvote {
     color: azure;
@@ -44,4 +46,14 @@ input {
 
 p {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+a {
+    text-decoration: double;
+    color: rgb(13, 0, 255);
+    font-family: cursive;
+}
+button{
+    color:rgb(229, 255, 0);
+    background-color: black;
 }
