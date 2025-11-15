@@ -1,0 +1,27 @@
+div h1 {
+    text-decoration: rgb(233, 174, 57) double underline;
+    text-align: center;
+    color: rgb(228, 23, 23);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1+p {
+    color: teal;
+    text-align: center;
+    background-color: rgb(219, 214, 64);
+}
+
+section div h2 {
+    color: rgb(20, 160, 241);
+    text-align: center;
+    background-color: black;
+    font-family:monospace;
+}
+li{
+    color:blueviolet;
+    text-align: center;
+}
+
+h2{
+    color: brown;
+}

@@ -3,7 +3,8 @@ h1 {
     color: rgb(228, 23, 23);
 }
 
-h3 {
+/* ADJACENT SIBLING COMBINATOR */
+div+h3 {
     color: rgb(228, 23, 23);
 }
 
@@ -44,7 +45,8 @@ input {
     background-color: rgb(232, 187, 230);
 }
 
-p {
+/* DESCENDANR SELECTOR */
+div p {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 }
 
@@ -53,7 +55,24 @@ a {
     color: rgb(13, 0, 255);
     font-family: cursive;
 }
-button{
-    color:rgb(229, 255, 0);
+
+/* SIBLING COMBINATOR */
+.upvote+button {
+    color: rgb(229, 255, 0);
     background-color: black;
+}
+
+/* DESCENDANR SELECTOR */
+.post a {
+    color: aqua;
+}
+nav ul li a{
+    color: rgb(179, 0, 255);
+}
+nav ul li{
+    color: rgb(0, 128, 255);
+}
+.contact{
+    color: rgb(0, 0, 0);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
