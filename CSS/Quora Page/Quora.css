@@ -20,7 +20,7 @@ ul {
 
 /* ID SELECTOR */
 #myid {
-    color: aquamarine;
+    color: rgb(0, 0, 0);
 }
 
 /*INDVISUAL ELEMENT SELECTOR  */
@@ -37,7 +37,7 @@ ul {
 /*.CLASS SELECTOR  */
 .upvote {
     color: azure;
-    background-color: green;
+    background-color: rgb(232, 60, 8);
 }
 
 input {
@@ -52,7 +52,7 @@ div p {
 
 a {
     text-decoration: double;
-    color: rgb(13, 0, 255);
+    color: rgb(11, 0, 218);
     font-family: cursive;
 }
 
@@ -65,14 +65,58 @@ a {
 /* DESCENDANR SELECTOR */
 .post a {
     color: aqua;
+    background-color: rgb(0, 128, 255)
 }
-nav ul li a{
-    color: rgb(179, 0, 255);
+
+nav ul li a {
+    color: rgba(0, 0, 0, 0.497);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-nav ul li{
+
+nav ul li {
     color: rgb(0, 128, 255);
 }
-.contact{
+
+.contact {
     color: rgb(0, 0, 0);
+<<<<<<< Updated upstream
     font-family:  'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+=======
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+input[type="text"] {
+    color: rgb(255, 20, 208);
+
+}
+
+input[type="password"] {
+    color: deeppink;
+
+}
+
+#myid p {
+
+    color: rgb(38, 234, 35);
+}
+
+button:hover {
+    background-color: green;
+    color: rgb(254, 4, 4);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+button:active {
+    background-color: rgb(255, 255, 255);
+}
+
+#signup:hover {
+    color: aqua;
+
+}
+
+#login:hover {
+    color: aqua;
+}
+>>>>>>> Stashed changes

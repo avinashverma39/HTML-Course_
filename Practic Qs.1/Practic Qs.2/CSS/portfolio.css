@@ -20,9 +20,14 @@ section div h2 {
 }
 li{
     color:blueviolet;
-    text-align: center;
+    text-align: left;
 }
 
 h2{
     color: brown;
+    text-align: center;
+}
+
+.gmail{
+    color: deeppink;
 }
