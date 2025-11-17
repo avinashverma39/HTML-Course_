@@ -34,3 +34,11 @@ h2+li {
     color: black;
     -webkit-text-stroke-width: bold;
 }
+
+.pic {
+    display: block;
+    margin: auto;
+    width: 200px;
+    height: 300px;
+
+}
