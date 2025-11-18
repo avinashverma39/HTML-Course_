@@ -7,7 +7,7 @@ div h1 {
     background-color: #0C2B4E;
      height: 50px;
     padding: 5px;
-    margin: 50px;
+    margin: 30px;
     /* border-width: 5px;
     border-style: solid;
     border-color: rgb(0, 229, 255); */
@@ -20,7 +20,13 @@ h1+p {
     color: teal;
     text-align: center;
     background-color: rgb(219, 214, 64);
+    height: 22px;
+    padding: 2px;
+    margin: 20px;
 
+    border:2px solid ;
+   
+    border-radius: 50px;
 }
 
 section div h2 {
