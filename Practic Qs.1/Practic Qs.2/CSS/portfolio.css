@@ -50,6 +50,7 @@ h2 {
     background-color: black;
     height: 25px;
     border: 4px solid;
+    border-radius: 30px;
 }
 
 h2+li {
