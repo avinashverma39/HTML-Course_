@@ -5,7 +5,7 @@ div h1 {
     color: #8FABD4;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: #0C2B4E;
-     height: 50px;
+    height: 50px;
     padding: 5px;
     margin: 30px;
     /* border-width: 5px;
@@ -23,7 +23,7 @@ h1+p {
     height: 22px;
     padding: 2px;
     margin: 20px;
-    border:2px solid ;
+    border: 2px solid;
     border-radius: 50px;
 
 }
@@ -39,6 +39,8 @@ section div h2 {
 li {
     color: #003459;
     text-align: left;
+    height: 30px;
+   
 
 }
 
@@ -47,7 +49,7 @@ h2 {
     text-align: center;
     background-color: black;
     height: 25px;
-    border: 5px solid ;
+    border: 4px solid;
 }
 
 h2+li {
@@ -80,4 +82,11 @@ div h1:hover {
 
 * {
     background-color: #eff7ff;
+}
+
+.box{
+    border: 5px solid blueviolet;
+    width: 300px;
+    border-radius: 25px;
+    background-color:;
 }
