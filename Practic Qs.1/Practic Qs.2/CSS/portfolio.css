@@ -87,6 +87,9 @@ div h1:hover {
 .box{
     border: 5px solid blueviolet;
     width: 300px;
-    border-radius: 25px;
-    background-color:;
+    border-radius:22px;
+  
+}
+.Contacts{
+    border: 5px solid;
 }
