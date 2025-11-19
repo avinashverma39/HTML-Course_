@@ -4,7 +4,7 @@ div h1 {
     text-align: center;
     color: #8FABD4;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: #0C2B4E;
+    background-color: #111d2b;
     height: 50px;
     padding: 5px;
     margin: 30px;
@@ -19,7 +19,7 @@ div h1 {
 h1+p {
     color: rgb(240, 89, 7);
     text-align: center;
-    background-color: rgb(219, 214, 64);
+    background-color: rgb(31, 60, 78);
     height: 22px;
     padding: 2px;
     margin: 20px;
@@ -31,20 +31,21 @@ h1+p {
 section div h2 {
     color: rgb(20, 160, 241);
     text-align: center;
-    background-color: rgb(70, 22, 22);
-     padding: 5px;
-     margin-right: 150px;
+    background-color: rgb(30, 5, 5);
+    padding: 5px;
+    margin-right: 150px;
     font-family: monospace;
 }
 
 li {
     color: #bcdd13;
-    text-align: center;
+    text-align: left;
     height: 30px;
     padding: 4px 5px 6px;
-    margin: 16px; 
-    
-    
+    margin: 16px;
+
+
+
 
 
 }
@@ -106,8 +107,15 @@ div h1:hover {
 
 .Contacts {
     border: 5px solid;
-    
+    color: green;
+
 }
-h3{
+
+h3 {
     color: red;
+}
+
+footer h2 {
+    color: green;
+    background-color: rgb(15, 61, 66);
 }
