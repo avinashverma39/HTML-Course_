@@ -17,7 +17,7 @@ div h1 {
 
 
 h1+p {
-    color: teal;
+    color: rgb(240, 89, 7);
     text-align: center;
     background-color: rgb(219, 214, 64);
     height: 22px;
@@ -37,7 +37,7 @@ section div h2 {
 }
 
 li {
-    color: #003459;
+    color: #bcdd13;
     text-align: left;
     height: 30px;
 
@@ -54,16 +54,19 @@ h2 {
 }
 
 h2+li {
-    color: black;
+    color: rgb(232, 1, 159);
     -webkit-text-stroke-width: bold;
 }
 
 .pic {
     display: block;
     margin: 5px;
-    width: 200px;
-    height: 300px;
-    border-radius: 20px;
+    width: 200;
+    height: 200px;
+    border-radius: 40px;
+    display: inline-block;
+    padding: 20px;
+    margin: auto;
 
 }
 
@@ -83,7 +86,7 @@ div h1:hover {
 }
 
 * {
-    background-color: #eff7ff;
+    background-color: #000000;
 }
 
 .box {
