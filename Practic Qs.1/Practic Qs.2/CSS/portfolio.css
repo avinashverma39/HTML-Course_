@@ -119,14 +119,14 @@ footer h2 {
     background-color: rgb(15, 61, 66);
 }
 
-section div h2:hover{
+section div h2:hover {
     color: chartreuse;
     background-color: rgb(255, 0, 0);
     transition-duration: 3s;
 }
 
-.pic:hover{
-   display: block;
+.pic:hover {
+    display: block;
     margin: 5px;
     width: 200px;
     height: 200px;
@@ -136,10 +136,7 @@ section div h2:hover{
     margin: auto;
     align-items: center;
     transform: translate(10px);
-   box-shadow: 3px 3px 10px rgb(11, 200, 86);
+    box-shadow: 3px 3px 10px rgb(11, 200, 86);
     /* transform: skew(4deg); */
 
 }
-
-
-
