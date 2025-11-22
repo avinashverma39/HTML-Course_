@@ -1,8 +1,37 @@
-div{
+.hste1{
     width: 100px;
     height: 100px;
     background-color: green;
     display: inline-block;
     margin: 10px;
     position: static;
+    /* not set position because ter are static */
+    left: 100px;
+    right: 100px;
 }
+
+/* without position */
+.hste2{   
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    display: inline-block;
+    margin: 10px;
+
+}
+/* with position  */
+
+.hste3{   
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    display: inline-block;
+    margin: 10px;
+    position: relative ;
+    left: 200px;
+    right: 100px;
+    top:100px;
+
+}
+
+/* use absolute position */
