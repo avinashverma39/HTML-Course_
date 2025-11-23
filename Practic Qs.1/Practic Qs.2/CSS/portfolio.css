@@ -13,6 +13,7 @@ div h1 {
     border-color: rgb(0, 229, 255); */
     border: 5px solid rgba(0, 238, 255, 0.788);
     border-radius: 30px;
+    
 
 }
 
@@ -76,7 +77,7 @@ h2+li {
     transform: translate(30px);
     box-shadow: 3px 3px 10px yellow;
     opacity: 80%;
-    
+
 }
 
 div h1::first-letter {
@@ -111,7 +112,7 @@ div h1:hover {
 
 .Contacts {
     border: 5px solid;
-    color: green;
+    color: rgb(0, 0, 0);
 
 }
 
@@ -120,15 +121,20 @@ h3 {
 }
 
 footer h2 {
-    color: green;
-    background-color: rgb(15, 61, 66);
+    color:#ffffff;
+    background-color: rgb(36, 15, 6);
 }
 
 section div h2:hover {
-    color: chartreuse;
+    color: rgb(255, 38, 0);
     background-color: rgb(95, 28, 86);
-    transition-duration: 2s;
+    transition-duration: 1s;
     margin: 20px;
+}
+
+
+ul {
+    color: rgb(255, 5, 5);
 }
 
 .pic:hover {
@@ -144,12 +150,35 @@ section div h2:hover {
     transform: translate(10px);
     box-shadow: 3px 3px 10px rgb(11, 200, 86);
     /* transform: skew(4deg); */
-}
- 
-li:hover{
-    margin: 10px;
-    color: rgb(245, 245, 245);
-   
-    
+    position: relative;
+    left: 20px;
 }
 
+li:hover {
+    margin: 10px;
+    color: rgb(255, 0, 0);
+    transform: scale(1.2);
+
+
+}
+
+.con:hover {
+    color: rgb(79, 188, 62);
+    background-color: rgb(95, 28, 86);
+    transition-duration: 1s;
+    margin: 20px;
+
+}
+div ul a {
+
+    color: chartreuse;
+
+}
+
+div ul a:hover {
+    color: rgb(250, 17, 191);
+}
+
+div ul{
+    border-radius: 40px;
+}
