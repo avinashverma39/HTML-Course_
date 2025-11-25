@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+}
+
+.container {
+    height: 300px;
+    width: 80%;
+    background-color: rgb(83, 186, 233);
+    margin: 10px auto;
+    border: 2px solid black;
+    display: flex;
+
+}
+
+.container div {
+    height: 100px;
+    width: 50px;
+    text-align: center;
+    color: ghostwhite;
+    font-size: 1.2em;
+}
+
+
+* {
+    background-color: rgb(46, 117, 132);
+}
