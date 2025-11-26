@@ -26,18 +26,18 @@ h1 {
 
 #org{
     text-align: center;
-    align-self: center;
+    /* align-self: center; */
     /* flex-basis: 100px; */
     /* flex-grow: 2; */
     /* flex-shrink: 2; */
-    max-width: 200px;
+    min-width: 200px;
 }
 
 #blue{
     /* flex-basis: 50px; */
     /* flex-grow: 2; */
     /* flex-shrink: 3; */
-    /* min-width: 300px; */
+    min-width: 300px;
 
 }
 
