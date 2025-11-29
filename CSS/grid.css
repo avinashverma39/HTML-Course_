@@ -1,11 +1,11 @@
 .container {
     width: 600px;
     height: 300px;
-    background-color: yellow;
+    background-color: rgb(70, 70, 33);
     display: grid;
     grid-template-columns: 120px 120px 120px 120px 120px;
     /* grid-template-rows: 60px 60px 60px 60px 60px; */
-    flex-direction: column;
+   
 }
 
 .itm {
