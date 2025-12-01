@@ -20,9 +20,12 @@
 }
 
 .one{
+    /* grid-column-start: 2; */
+
     grid-template-rows: repeat(2,1fr);
 }
 
 .two{
     grid-template-columns: repeat(2,1fr);
+    /* grid-column-end:4 ; */
 }
