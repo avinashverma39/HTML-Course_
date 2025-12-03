@@ -20,3 +20,12 @@ div{
       width: 30px;
     }
 }
+
+
+/* % in animation */
+
+@keyframes colorbg{
+    0%{
+    background-color: blueviolet;
+    } 
+}
