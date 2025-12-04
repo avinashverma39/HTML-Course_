@@ -1,0 +1,30 @@
+span {
+    color: chocolate;
+}
+
+h3 {
+    color: brown;
+}
+
+.card {
+    width: 300px;
+    /* height: 500px; */
+    border: 2px solid black;
+    border-radius: 25px;
+    padding:10px;
+    margin:10px;
+
+}
+
+.card2 {
+    width: 300px;
+    height: 150px;
+    border-radius: 20px;
+    align-items: center;
+}
+
+#pets{
+    display: flex;
+    justify-content: space-between;
+    
+}
