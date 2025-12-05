@@ -1,0 +1,28 @@
+.card1 {
+    width: 900px;
+    border: 2px solid black;
+    border-radius: 25px;
+    padding: 20px;
+    margin: 20px;
+}
+
+h1{
+    text-align: center;
+    color: aqua;
+
+}
+h1::first-letter{
+    text-align: center;
+    color: rgb(255, 0, 144);
+
+}
+
+*{
+    background-color:#71708F ;
+}
+.nn{
+    color: rgb(212, 255, 0);
+}
+p{
+    color: rgb(255, 255, 255);
+}
