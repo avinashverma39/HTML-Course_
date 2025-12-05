@@ -34,7 +34,7 @@ p {
 
 @keyframes wel {
     from {
-        width: 200px;
+        width: 100%;
         border: 1px solid rgb(255, 255, 255);
         border-radius: 4px;
         padding: 2px;
@@ -42,13 +42,16 @@ p {
     }
 
     to {
-        width: 900px;
+        width: 0%;
         border: 2px solid rgb(255, 255, 255);
         border-radius: 6px;
         /* text-align: center; */
         padding: 2px;
         justify-content: space-evenly;
         margin: 2px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
     }
 
 
