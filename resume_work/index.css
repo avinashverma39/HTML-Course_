@@ -53,6 +53,7 @@ p{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     color: rgb(0, 0, 0);
+    
 
 }
 
@@ -60,7 +61,7 @@ p{
 
     position: relative;
     left: 620px;
-    top: 10px;
+    top: 12px;
     padding: 20px;
     margin: auto;
     /* align-items: center; */
