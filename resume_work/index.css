@@ -23,7 +23,7 @@ h1::first-letter {
 }
 
 * {
-    background-color: #71708F;
+    background-color: #7E8180;
 }
 
 .nn {
@@ -38,6 +38,14 @@ h1::first-letter {
     left: 100px;
 } */
 
+
+work1 {
+    font-size: 20px;
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    /* text-align: center */
+    color: #59A68A;
+    
+}
 .rr {
 
     text-align: center;
