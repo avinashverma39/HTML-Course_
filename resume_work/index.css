@@ -70,6 +70,16 @@ work1 {
     animation: wel 4s backwards 3s 2 normal;
 }
 
+.Education {
+    font-size: 4px;
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    /* text-align: center */
+    color: #bc9d2f;
+    /* text-align: center; */
+    /* padding: 12px;
+    margin: 12px; */
+    
+}
 
 p{
     font-size: 15px;
