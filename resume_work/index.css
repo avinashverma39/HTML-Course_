@@ -27,7 +27,7 @@ h4{
     background-color: #7E8180;
     display: inline-block;
     height: 30px;
-    width: 140px;
+    width: 1040px;
     padding: 2px;
     margin: 20px;
     border: 2px solid rgb(96, 106, 47);
@@ -63,7 +63,7 @@ h2 {
     background-color: #7E8180;
     display: inline-block;
     height: 40px;
-    width: 140px;
+    width: 1040px;
     padding: 2px;
     margin: 20px;
     border: 2px solid rgb(96, 106, 47);
@@ -111,7 +111,9 @@ button{
     /* text-decoration: underline; */
 
 }
-
+a{
+    color: rgb(255, 0, 144);
+}
 .rr {
 
     text-align: center;
@@ -122,6 +124,7 @@ button{
 }
 
 .Education {
+    /* color: rgb(255, 0, 144); */
     font-size: 20px;
     /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
     /* text-align: center */
