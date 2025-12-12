@@ -17,6 +17,11 @@ h1::first-letter {
     color: rgb(255, 0, 144);
 
 }
+.work1::first-line {
+    text-align: center;
+    color: rgba(107, 239, 239, 0.701);
+
+}
 h4{
      color: rgb(228, 227, 227);
     background-color: #7E8180;
@@ -84,13 +89,13 @@ h2 {
 button{
     height: 40px;
     width: 80px;
-    padding: 5px;
+    padding: 2px;
     margin: 2px;
     border-radius: 12px;
     border: 1px solid rgb(96, 106, 47);
-    border-radius: 20px 15px 20px 15px;
-    background-color: #579681;
-    box-shadow: 2px 2px 10px rgb(219, 83, 53);
+    border-radius: 20px ;
+    /* background-color: #579681; */
+    box-shadow: 2px 2px 10px rgb(181, 51, 22);
 }
 .work1 {
     font-size: 20px;
@@ -98,6 +103,12 @@ button{
     /* text-align: center */
     color: #ffffff;
     margin: 12px;
+    border: 2px solid rgb(24, 23, 23);
+    border-radius: 20px;
+    text-align: center;
+    padding: 10px;   
+    background-color: #7E8180;
+    /* text-decoration: underline; */
 
 }
 
@@ -114,7 +125,7 @@ button{
     font-size: 20px;
     /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
     /* text-align: center */
-    color: #bc9d2f;
+    /* color: inherit; */
     text-align: center;
         padding: 2px;
         background-color: #7E8180;
