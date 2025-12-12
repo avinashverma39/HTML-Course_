@@ -53,9 +53,9 @@ h2 {
 }
 
 .page{
-    height: 2px;
-    width: 100%;
-    background-color: black;
+    /* height: 20px;
+    width: 10px; */
+    background-color: rgb(255, 255, 255);
     margin-top: 10px;
     margin-bottom: 10px;
     border: 2px ;
