@@ -176,7 +176,7 @@ p {
 .pic {
 
     position: relative;
-    left: 620px;
+    left: 420px;
     top: 12px;
     padding: 20px;
     margin: auto;
@@ -245,7 +245,7 @@ button:hover{
 @keyframes h3 {
     from {
     height: 30px;
-    width: 1050px;
+    width: 1000px;
     padding: 2px;
     margin: 20px;
     border-radius: 12px;
@@ -257,7 +257,7 @@ button:hover{
 
     to {
       height: 30px;
-    width: 1000px;
+    width: 900px;
     padding: 2px;
     margin: 20px;
     border-radius: 12px;
