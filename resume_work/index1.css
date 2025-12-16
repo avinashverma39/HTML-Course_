@@ -23,6 +23,10 @@ h3{
     padding: 1px;
     margin: 10px;
     /* justify-items: left; */
+    /* justify-content: relative; */
+    position: relative;
+    left: 200px;
+    
     border: 2px solid rgb(96, 106, 47);
     border-radius: 6px 19px 1px;
     text-align: center;
