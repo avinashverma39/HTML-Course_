@@ -35,3 +35,7 @@ h3{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     box-shadow: 2px 2px 10px rgb(66, 138, 132); 
 }
+
+*{
+     background-color: #7E8180;
+}
