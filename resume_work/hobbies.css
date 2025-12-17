@@ -55,3 +55,13 @@ p {
     margin-top: 20px;
     margin-bottom: 0px; */
 }
+
+
+.meet {
+    text-align: center;
+    /* font-size: 30px; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(255, 255, 255);
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
