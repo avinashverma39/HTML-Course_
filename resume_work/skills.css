@@ -1,5 +1,5 @@
 h2 {
-    color: rgb(228, 227, 227);
+    color: rgb(0, 0, 0);
     background-color: #7E8180;
     display: inline-block;
     height: 30px;
@@ -57,9 +57,8 @@ p {
     text-align: center;
 }
 .meet {
+    
     text-align: center;
-
-
     /* font-size: 30px; */
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: rgb(255, 255, 255);
