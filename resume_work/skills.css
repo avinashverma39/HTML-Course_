@@ -72,7 +72,9 @@ p {
 } */
 .meet {
 
-   
+    min-height: 30vh;
+    display: flex;
+    flex-direction: column;
 
     text-align: center;
     /* font-size: 30px; */
