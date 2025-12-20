@@ -12,7 +12,7 @@ h2 {
     border-radius: 6px 19px 1px;
     text-align: center;
     /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
-    box-shadow: 2px 2px 10px rgb(3, 248, 227);
+    box-shadow: 2px 2px 10px rgb(8, 245, 127);
 
 }
 
@@ -21,7 +21,7 @@ h2 {
     font-size: 15px;
     padding: 20px;
     margin: auto;
-    width: 400px;
+    width: 350px;
     height: auto;
     position: relative;
     left: 30px;
@@ -29,7 +29,7 @@ h2 {
     border: 2px solid rgba(161, 6, 251, 0.704);
     border-radius: 1px 30px 1px 30px;
     box-shadow: 5px 5px 10px 5px rgb(10, 7, 10);
-    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: rgb(255, 255, 255);
 }
 
@@ -60,15 +60,15 @@ h4 {
     height: 20px;
     width: 200px;
     padding: 1px;
-    margin: 0px;
+    margin: 10px;
     position: relative;
     left: 30px;
-    border: 2px solid rgb(47, 106, 104);
-    border-radius: 6px 19px 1px;
+    border: 2px solid rgb(61, 149, 146);
+    border-radius: 30px;
     text-align: center;
     /* text-align: justify; */
     /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
-    box-shadow: 2px 2px 10px rgb(43, 87, 59);
+    box-shadow: 2px 2px 10px rgb(221, 107, 120);
 }
 
 * {
