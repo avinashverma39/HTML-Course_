@@ -3,11 +3,11 @@ h2 {
     background-color: #7E8180;
     display: inline-block;
     height: 30px;
-    width: 400px;
+    width: 200px;
     padding: 1px;
     margin: 20px;
     position: relative;
-    left: 200px;
+    left: 30px;
     border: 2px solid rgb(96, 106, 47);
     border-radius: 6px 19px 1px;
     text-align: center;
@@ -45,6 +45,23 @@ h3 {
     box-shadow: 2px 2px 10px rgb(66, 138, 132);
 }
 
+h4{
+    color: rgb(0, 0, 0);
+    background-color: #7E8180;
+    display: inline-block;
+    height: 30px;
+    width: 200px;
+    padding: 1px;
+    margin: 20px;
+    position: relative;
+    left: 60px;
+    border: 2px solid rgb(96, 106, 47);
+    border-radius: 6px 19px 1px;
+    text-align: center;
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    box-shadow: 2px 2px 10px rgb(66, 138, 132);
+}
+
 * {
     background-color: #7E8180;
 }
@@ -72,10 +89,9 @@ p {
 } */
 .footer {
 
-    min-height: 40vh;
+    /* min-height: 40vh;
     display: flex;
-    flex-direction: column;
-
+    flex-direction: column; */
     text-align: center;
     /* font-size: 30px; */
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
