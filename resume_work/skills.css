@@ -19,10 +19,16 @@ h2 {
 .Skills {
     text-align: center;
     font-size: 15px;
-    padding: auto;
+    padding: 10px;
     margin: auto;
+    width: 400px;
+    height: auto;
+    position: relative;
+    left: 30px;
+    top: 25px;
     border: 2px solid rgba(161, 6, 251, 0.704);
-    border-radius: 3px 15px 1px 20px;
+    border-radius: 5px 15px 5px 20px;
+    box-shadow: 5px 5px 10px 5px rgb(10, 7, 10);
     /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
     color: rgb(255, 255, 255);
 }
