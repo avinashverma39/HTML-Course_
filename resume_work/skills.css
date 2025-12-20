@@ -6,10 +6,8 @@ h2 {
     width: 200px;
     padding: 1px;
     margin: 20px;
-    /* max-width: 950px;
-    min-width: 2%; */
     position: relative;
-    left: 30%;
+    left: 40%;
     border: 2px solid rgb(112, 70, 126);
     border-radius: 6px 19px 1px;
     text-align: center;
