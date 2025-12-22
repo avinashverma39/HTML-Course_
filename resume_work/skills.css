@@ -112,7 +112,7 @@ p {
     flex-direction: column; */
     position: fixed;
     bottom: 0;
-    left: 0;
+    left: -5%;
     width: 100%;
     text-align: center;
     /* font-size: 30px; */
