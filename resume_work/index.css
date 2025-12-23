@@ -83,10 +83,12 @@ h5::first-letter {
     text-align: center;
     color: rgba(107, 239, 239, 0.701);
 }
-
+.nam{
+    color:rgb(255, 247, 7)
+}
 h4 {
     color: rgb(228, 227, 227);
-    background-color: #7e8180;
+    background-color: #2da47d;
     display: inline-block;
     height: 30px;
     width: 1040px;
@@ -278,10 +280,10 @@ button:hover {
     }
 
     to {
-        width: 100%;
+        width: 120%;
         /* border: 2px solid rgb(255, 255, 255); */
         /* border-radius: 4px; */
-        text-align: center;
+        /* text-align: center; */
         /* display:inline-block; */
         /* padding: 2px; */
         /* justify-content: space-evenly; */
