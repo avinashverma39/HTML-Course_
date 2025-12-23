@@ -6,6 +6,9 @@
   margin: 20px;
   position: relative;
   left: 30%;
+ box-shadow: 5px 5px 30px color-mix(in srgb, rgb(255, 0, 128) 50%,
+      white 50%);
+
 }
 .pic {
   position: relative;
@@ -27,6 +30,7 @@
 
 .rr {
   text-align: right;
+  
   color: rgb(255, 255, 255);
   /* border: 1px solid rgb(255, 255, 255); */
   border-radius: 4px;
