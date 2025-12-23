@@ -266,8 +266,8 @@ button:hover {
 @keyframes wel {
     from {
         width: 0%;
-        text-align: center;
-        display: inline-block;
+        /* text-align: center; */
+        /* display: inline-block; */
         /* border: 1px solid rgb(255, 255, 255); */
         /* border-radius: 4px; */
         /* padding: 2px; */
@@ -278,7 +278,7 @@ button:hover {
     }
 
     to {
-        width: 400px;
+        width: 100%;
         /* border: 2px solid rgb(255, 255, 255); */
         /* border-radius: 4px; */
         text-align: center;
