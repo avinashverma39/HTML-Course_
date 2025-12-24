@@ -88,6 +88,10 @@ p {
     text-align: center;
 }
 
+span{
+    color:rgb(73, 131, 238)
+}
+
 .foot {
     text-align: center;
     font-size: 15px;
