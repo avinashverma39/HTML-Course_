@@ -37,8 +37,7 @@
   position: relative;
   left: 370px;
   color: rgb(255, 255, 255);
-  border: 2px 2px 2px solid
-    color-mix(in srgb-linear, rgb(0, 0, 0) 50%, black 50%);
+  border: 2px 2px 2px solid color-mix(in srgb-linear, rgb(0, 0, 0) 50%, black 50%);
   border-radius: 5px;
   box-shadow: 2px 2px 10px rgb(12, 29, 29);
   /* box-sizing: content-box; */
@@ -93,13 +92,11 @@ h4 {
   color: rgb(228, 227, 227);
   /* background-color: #3f98f2; */
   background: #020024;
-  background: linear-gradient(
-    318deg,
-    rgba(2, 0, 36, 1) 0%,
-    rgba(9, 9, 121, 1) 52%,
-    rgba(0, 212, 255, 1) 86%,
-    rgba(0, 212, 255, 1) 100%
-  );
+  background: linear-gradient(318deg,
+      rgba(2, 0, 36, 1) 0%,
+      rgba(9, 9, 121, 1) 52%,
+      rgba(0, 212, 255, 1) 86%,
+      rgba(0, 212, 255, 1) 100%);
 
   display: inline-block;
   height: 30px;
@@ -137,12 +134,10 @@ h4 {
 
 h2 {
   background: #020024;
-  background: linear-gradient(
-    90deg,
-    rgba(2, 0, 36, 1) 0%,
-    rgba(14, 14, 121, 0.84) 35%,
-    rgba(0, 212, 255, 1) 100%
-  );
+  background: linear-gradient(90deg,
+      rgba(2, 0, 36, 1) 0%,
+      rgba(14, 14, 121, 0.84) 35%,
+      rgba(0, 212, 255, 1) 100%);
   /* background-color: #7e8180; */
   display: inline-block;
   height: 40px;
@@ -193,12 +188,10 @@ button:hover {
   box-shadow: 2px 2px 10px rgb(0, 251, 147);
   /* cursor: pointer; */
   background: #2a7b9b;
-  background: linear-gradient(
-    90deg,
-    rgba(42, 123, 155, 1) 0%,
-    rgba(87, 199, 133, 1) 50%,
-    rgba(237, 221, 83, 1) 100%
-  );
+  background: linear-gradient(90deg,
+      rgba(42, 123, 155, 1) 0%,
+      rgba(87, 199, 133, 1) 50%,
+      rgba(237, 221, 83, 1) 100%);
 
   transition: box-shadow 0.3s ease-in-out;
   color: #000;
@@ -207,12 +200,13 @@ button:hover {
   /* padding: 2px; */
   /* margin: 2px; */
   /* border-radius: 12px; */
-  border: 2px solid color-mix(in oklab, #00ff0d 50%, #1de942 50%);
+  border: 2px solid color-mix(in oklab, #49ce50 50%, #1de942 50%);
   border-radius: 20px;
   /* background-color: #579681; */
   box-shadow: 2px 2px 10px rgb(0, 251, 147);
   animation: button 0.5s forwards;
 }
+
 @keyframes button {
   from {
     height: 40px;
@@ -237,12 +231,13 @@ button:hover {
     /* color: #00eb2f; */
     /* background-color: lightgreen; */
     border-radius: 20px;
-    border: 2px solid color-mix(in oklab, #00eb2f 50%, #00ff08 50%);
+    border: 1px solid color-mix(in oklab, #17c53a 50%, #00ff08 50%);
     /* border-radius: 20px; */
     /* background-color: inherit; */
     box-shadow: 2px 2px 10px rgb(49, 213, 85);
   }
 }
+
 .work1 {
   font-size: 20px;
   /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
