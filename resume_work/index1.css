@@ -88,6 +88,48 @@ p {
     text-align: center;
 }
 
+.nav {
+    text-align: right;
+    font-size: 15px;
+    padding: 5px;
+    margin: auto;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 3px;
+    left: 0;
+    /* background-color: #6d7170; */
+    display: block;
+}
+
+/* .navbar{ */
+/* background-color: #232826; */
+/* position: fixe; */
+/* top: 0; */
+/* width: 100%;
+    z-index: 1;
+    border: 2px solid black;
+    box-shadow: 0px 4px 2px -2px gray; */
+
+
+/* } */
+.nav a {
+    text-decoration: none;
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+
+}
+
+.nav a:hover {
+    text-decoration: underline;
+    color: rgb(0, 255, 238);
+    border: 1px solid rgb(201, 68, 68);
+    border-radius: 7px;
+    padding: 3.5px;
+    margin: auto;
+    /* background-color: rgb(71, 97, 199); */
+
+}
+
 .foot {
     text-align: center;
     font-size: 15px;
