@@ -154,6 +154,40 @@ b {
   color: black;
 }
 
+.about {
+  /* width: 600px; */
+  /* height: auto; */
+  /* position: relative; */
+  /* left: calc(50% - 300px); */
+  /* top: 20px; */
+  /* border: 2px solid rgba(161, 6, 251, 0.704); */
+  /* border-radius: 1px 30px 1px 30px; */
+  /* box-shadow: 5px 5px 10px 5px rgb(10, 7, 10); */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(255, 255, 255);
+  background-color: inherit;
+ color: inherit;
+  margin-bottom: 20px;
+}
+
+.work1 {
+  font-size: 20px;
+  /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+  /* text-align: center */
+  background: #b3e9ff;
+  background: radial-gradient(circle, rgba(179, 233, 255, 1) 12%, rgba(87, 199, 133, 1) 53%, rgba(255, 247, 171, 1) 90%);
+  box-shadow: 2px 2px 5px #000;
+  color: #ffffff;
+  margin: 12px;
+  border: 2px solid rgb(24, 23, 23);
+  border-radius: 20px;
+  text-align: center;
+  padding: 10px;
+  background-color: inherit;
+  /* background: inherit; */
+  /* text-decoration: underline; */
+}
+
 .page {
   /* height: 20px;
     width: 10px; */
@@ -238,23 +272,6 @@ button:hover {
   }
 }
 
-.work1 {
-  font-size: 20px;
-  /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
-  /* text-align: center */
-  background: #b3e9ff;
-  background: radial-gradient(circle, rgba(179, 233, 255, 1) 12%, rgba(87, 199, 133, 1) 53%, rgba(255, 247, 171, 1) 90%);
-  box-shadow: 2px 2px 5px #000;
-  color: #ffffff;
-  margin: 12px;
-  border: 2px solid rgb(24, 23, 23);
-  border-radius: 20px;
-  text-align: center;
-  padding: 10px;
-  background-color: inherit;
-  /* background: inherit; */
-  /* text-decoration: underline; */
-}
 
 .Education {
   /* color: rgb(255, 0, 144); */
