@@ -106,12 +106,25 @@ h4 {
     background-color: #7E8180;
 }
 
+/* ul  b{
+    background-color: inherit;
+} */
+
 b {
     /* color: rgb(183, 19, 19); */
     background: #121FCF;
     background: linear-gradient(to right, #121FCF 0%, #CF1512 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    background-color: inherit;
+
+}
+
+.Skills:hover {
+    /* color: rgb(183, 19, 19); */
+    /* background-color: rgb(104, 191, 227); */
+    /* background-color: inherit; */
+    animation: work 0.5s infinite alternate;
 }
 
 /* .ho1{
@@ -127,7 +140,7 @@ p {
     text-align: center;
 }
 
- /* b{
+/* b{
     color: aqua;
 } */
 /* span {
@@ -185,11 +198,14 @@ p {
 
 @keyframes work {
     from {
-        background-color: #7E8180;
+        background-color: #1bdf9e;
+        /* background-color: inherit; */
+
     }
 
     to {
         background-color: rgb(104, 191, 227);
+        /* background-color: inherit; */
     }
 
 }
