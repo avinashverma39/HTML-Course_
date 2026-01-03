@@ -112,9 +112,11 @@ b {
     background: linear-gradient(to right, #121FCF 0%, #CF1512 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-
-
 }
+
+/* .ho1{
+    color: #20d2b1;
+} */
 
 p {
     color: black;
