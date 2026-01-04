@@ -38,7 +38,7 @@ h2 {
     position: relative;
     left: 20%;
     border: 2px solid rgb(112, 70, 126);
-    border-radius: 6px 19px 1px;
+    border-radius: 1px 10px 1px;
     text-align: center;
     /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
     box-shadow: 2px 2px 10px rgb(8, 245, 127);
@@ -192,7 +192,8 @@ p {
 
 @keyframes button {
     from {
-        background-color: #7e8180;
+        color: white;
+        background-color: #db3535;
         width: 0px;
         /* background-color: inherit; */
         overflow: hidden;
@@ -201,6 +202,7 @@ p {
     }
 
     to {
+        color: cyan;
         background: #f8f8fd;
         background: linear-gradient(318deg,
                 rgba(2, 0, 36, 1) 0%,
