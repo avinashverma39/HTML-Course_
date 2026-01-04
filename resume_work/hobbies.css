@@ -53,7 +53,7 @@ h2 {
     padding: 10px;
     margin: auto;
     width: 300px;
-    height: 150px;
+    height: 110px;
     position: relative;
     left: 0px;
     top: 25px;
@@ -85,12 +85,18 @@ h3 {
 }
 
 h4 {
-    color: rgb(27, 29, 26);
-    background-color: #7E8180;
+    color: rgb(208, 213, 206);
+    /* background-color: #7E8180; */
+    background: #020024;
+    background: linear-gradient(318deg,
+            rgba(2, 0, 36, 1) 0%,
+            rgba(9, 9, 121, 1) 52%,
+            rgba(0, 212, 255, 1) 86%,
+            rgba(0, 212, 255, 1) 100%);
     display: inline-block;
     height: 20px;
     width: 200px;
-    padding: 1px;
+    padding: 10px;
     margin: 10px;
     position: relative;
     left: 30px;
@@ -111,6 +117,8 @@ h4 {
 } */
 
 b {
+    padding: 10px;
+    margin: auto;
     /* color: rgb(183, 19, 19); */
     background: #121FCF;
     background: linear-gradient(to right, #121FCF 0%, #CF1512 100%);
@@ -123,7 +131,7 @@ b {
 .Skills:hover {
     /* color: rgb(183, 19, 19); */
     /* background-color: rgb(104, 191, 227); */
-    /* background-color: inherit; */
+    background-color: inherit;
     animation: work 0.5s infinite alternate;
 }
 
@@ -154,8 +162,8 @@ p {
 .foot {
     text-align: center;
     font-size: 15px;
-    padding: 0px;
-    margin: 0px;
+    padding: 10px;
+    margin: auto;
     position: relative;
     top: 20px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -172,9 +180,9 @@ p {
 } */
 .footer {
 
-    /* min-height: 100vh;
-    display: flex;
-    flex-direction: column;  */
+    /* min-height: 100vh; */
+    /* display: flex; */
+    /* flex-direction: column;  */
     position: fixed;
     bottom: 0;
     left: -5%;
@@ -200,6 +208,7 @@ p {
     from {
         background-color: #1bdf9e;
         /* background-color: inherit; */
+        width: 400px;
 
     }
 
