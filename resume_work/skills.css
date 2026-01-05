@@ -161,3 +161,13 @@ p {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: rgb(255, 255, 255);
 }
+
+@keyframes button {
+  from {
+    color: white;
+    background-color: #db3535;
+    width: 0px;
+    /* background-color: inherit; */
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
