@@ -130,6 +130,7 @@ h4 {
 
 b {
     color: rgb(183, 19, 19);
+    background-color: inherit;
 }
 
 p {
