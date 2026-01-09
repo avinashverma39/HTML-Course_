@@ -84,11 +84,9 @@ h5::first-letter {
   text-align: center;
   color: rgba(220, 247, 18, 0.701);
 }
-
 .nam {
   color: rgb(255, 247, 7);
 }
-
 h4 {
   /* color: rgb(81, 203, 20); */
   /* background-color: #3f98f2; */
@@ -100,7 +98,6 @@ h4 {
     rgba(0, 212, 255, 1) 86%,
     rgba(0, 212, 255, 1) 100%
   );
-
   display: inline-block;
   height: 30px;
   width: 1040px;
@@ -115,7 +112,6 @@ h4 {
     Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   animation: h3 1s backwards 3s infinite normal;
 }
-
 .ee {
   background: #121fcf;
   background: linear-gradient(to right, #121fcf 0%, #cf1512 100%);
@@ -128,12 +124,10 @@ h4 {
 * {
   background-color: #7e8180;
 }
-
 .nn {
   color: rgb(0, 255, 17);
   /* color: inherit; */
 }
-
 /* .imagecard2 {
     justify-content: space-evenly;
     position: relative;
@@ -151,7 +145,6 @@ i b {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
-
 h2 {
   color: rgb(0, 0, 0);
   /* background: #21B4E2;
