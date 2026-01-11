@@ -374,8 +374,6 @@ p {
 @keyframes wel {
   from {
     width: 0%;
-    /* text-align: center; */
-    /* display: inline-block; */
   
     overflow: hidden;
     text-overflow: ellipsis;
