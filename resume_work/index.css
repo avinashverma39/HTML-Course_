@@ -50,8 +50,6 @@
 .Welcome {
   text-align: left;
   color: rgb(255, 255, 255);
-  /* border: 1px solid rgb(255, 255, 255); */
-  /* border-radius: 4px; */
   animation: welcome 5s backwards 6s infinite normal;
 }
 
