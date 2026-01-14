@@ -78,7 +78,6 @@ p {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   justify-content: center;
   font-size: 10px;
-  /* margin: 50px; */
   text-align: center;
 }
 
@@ -92,7 +91,6 @@ p {
   right: 0;
   bottom: 3px;
   left: 0;
-  /* background-color: #6d7170; */
   display: block;
 }
 
