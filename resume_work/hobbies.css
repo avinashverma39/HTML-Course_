@@ -152,7 +152,6 @@ p {
     color: white;
     background-color: #db3535;
     width: 0px;
-    /* background-color: inherit; */
     overflow: hidden;
     text-overflow: ellipsis;
   }
@@ -167,8 +166,6 @@ p {
         rgba(0, 212, 255, 1) 100%);
     overflow: hidden;
     text-overflow: ellipsis;
-
-    /* background-color: rgb(193, 176, 182); */
     width: 220px;
   }
 }
@@ -176,12 +173,10 @@ p {
 @keyframes work {
   from {
     background-color: #1bdf9e;
-    /* background-color: inherit; */
     width: 400px;
   }
 
   to {
     background-color: rgb(104, 191, 227);
-    /* background-color: inherit; */
   }
 }
