@@ -369,4 +369,10 @@ p {
     font-size: 6px;
     left: 0px;
   }
+   .imgcard2{
+    width: 50px;
+    height: 400px;
+    left: 20%;
+
+   }
 }
