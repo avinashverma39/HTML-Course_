@@ -304,13 +304,13 @@ p {
 }
 @keyframes wel {
   from {
-    width: 0%;
+    width: 10%;
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
   }
   to {
-    width: 10%;
+    width: 5%;
   }
 }
 @keyframes h3 {
@@ -397,7 +397,11 @@ p {
     left: 400px;
 
    }
-
+   .pic{
+    width: 200px;
+    height: 200px;
+    left: 20%;
+   }
    @keyframes wel {
   from {
     width: 100%;
