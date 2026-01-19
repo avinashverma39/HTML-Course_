@@ -376,3 +376,16 @@ p {
 
    }
 }
+
+@media screen and (min-width:200px) {
+  .imgcard2{
+    width: 200px;
+    height: 200px;
+    left: 30%;
+    margin-top: 10px;
+    margin-right: 15px;
+
+   }
+
+  
+}
