@@ -92,9 +92,11 @@ p {
   left: 0;
   display: block;
 }
+
 .nav a {
   text-decoration: none;
 }
+
 .nav a:hover {
   text-decoration: underline;
   color: rgb(0, 255, 238);
@@ -103,6 +105,7 @@ p {
   padding: 3.5px;
   margin: auto;
 }
+
 .foot {
   text-align: center;
   font-size: 15px;
@@ -113,6 +116,7 @@ p {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   color: rgb(255, 255, 255);
 }
+
 .footer {
   position: fixed;
   bottom: 0;
@@ -122,6 +126,7 @@ p {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   color: rgb(255, 255, 255);
 }
+
 @keyframes button {
   from {
     color: white;
@@ -135,18 +140,17 @@ p {
   to {
     color: cyan;
     background: #f8f8fd;
-    background: linear-gradient(
-      318deg,
-      rgba(2, 0, 36, 1) 0%,
-      rgba(9, 9, 121, 1) 52%,
-      rgba(0, 212, 255, 1) 86%,
-      rgba(0, 212, 255, 1) 100%
-    );
+    background: linear-gradient(318deg,
+        rgba(2, 0, 36, 1) 0%,
+        rgba(9, 9, 121, 1) 52%,
+        rgba(0, 212, 255, 1) 86%,
+        rgba(0, 212, 255, 1) 100%);
     overflow: hidden;
     text-overflow: ellipsis;
     width: 220px;
   }
 }
+
 @keyframes work {
   from {
     background-color: #1bdf9e;
@@ -157,22 +161,26 @@ p {
     background-color: rgb(104, 191, 227);
   }
 }
+
 @media only screen and (max-width: 400px) {
   h2 {
     width: 100px;
     font-size: 10px;
     left: 10%;
   }
+
   h4 {
     width: 200px;
     font-size: 7px;
     left: 400px;
   }
+
   h3 {
     width: 200px;
     font-size: 7px;
     left: 50px;
   }
+
   .Skills {
     width: 150px;
     font-size: 6px;
@@ -188,16 +196,19 @@ p {
     margin-top: 10px;
     margin-right: 15px;
   }
+
   h4 {
     width: 200px;
     font-size: 15px;
     left: 400px;
   }
+
   .pic {
     width: 200px;
     height: 200px;
     left: 20%;
   }
+
   @keyframes wel {
     from {
       width: 100%;
@@ -205,6 +216,7 @@ p {
       text-overflow: ellipsis;
       white-space: nowrap;
     }
+
     to {
       width: 100%;
     }
