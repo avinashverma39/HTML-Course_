@@ -95,7 +95,6 @@ p {
 .nav a {
   text-decoration: none;
 }
-
 .nav a:hover {
   text-decoration: underline;
   color: rgb(0, 255, 238);
@@ -104,7 +103,6 @@ p {
   padding: 3.5px;
   margin: auto;
 }
-
 .foot {
   text-align: center;
   font-size: 15px;
@@ -115,7 +113,6 @@ p {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   color: rgb(255, 255, 255);
 }
-
 .footer {
   position: fixed;
   bottom: 0;
