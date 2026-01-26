@@ -110,9 +110,10 @@ h4 {
 }
 
 .ee {
+
   background: #121fcf;
   background: linear-gradient(to right, #121fcf 0%, #cf1512 100%);
-  -webkit-background-clip: text;
+  -webkit-background-clip:text;
   -webkit-text-fill-color: transparent;
 
   background-color: inherit;
@@ -135,7 +136,7 @@ i b {
     #21b4e2 75%,
     #000000 95%
   );
-  
+
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
