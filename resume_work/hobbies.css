@@ -152,7 +152,6 @@ p {
     overflow: hidden;
     text-overflow: ellipsis;
   }
-
   to {
     color: cyan;
     background: #f8f8fd;
@@ -176,7 +175,7 @@ p {
   to {
     background-color: rgb(104, 191, 227);
   }
-  
+
 }
 
 @media only screen and (max-width: 400px) {
