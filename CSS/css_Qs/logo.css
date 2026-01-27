@@ -1,5 +1,4 @@
 h1{
-     
     color: rgb(219, 91, 0);
     background-color: white;
     font-family: initial;
@@ -11,5 +10,4 @@ h1{
     text-decoration: teal double underline;
     /* text-decoration: teal underline; */
     text-transform: uppercase;
-
 }
