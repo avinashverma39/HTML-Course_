@@ -16,10 +16,8 @@ h1 {
     /* align-content: space-around; */
     /* flex-wrap: wrap; */
      /* align-content: baseline; */
-
      align-content: flex-start;
 }
-
 #org{
     text-align: center;
     /* align-self: center; */
