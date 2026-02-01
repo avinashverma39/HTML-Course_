@@ -2,13 +2,16 @@ span {
     color: chocolate;
 }
 
+
 h3 {
     color: brown;
 }
 
+
 h4 {
     color: brown;
 }
+
 
 .card {
     width: 250px;
@@ -19,6 +22,7 @@ h4 {
     margin: 10px;
 
 }
+
 
 .card2 {
     width: 250px;
