@@ -202,13 +202,11 @@ p {
     font-size: 15px;
     left: 400px;
   }
-
   .pic {
     width: 200px;
     height: 200px;
     left: 20%;
   }
-
   @keyframes wel {
     from {
       width: 100%;
